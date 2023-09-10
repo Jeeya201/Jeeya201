@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 📚 When I'm not coding, I enjoy creating art, listening to songs, and diving into video games.
 
 ⚡ Steve Jobs once said, "The only way to do great work is to love what you do." And I'm here, pouring that love into tech and innovation !
-[![Jeeya Shah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Jeeya201&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Jeeya201)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Jeeya201&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Jeeya201)
