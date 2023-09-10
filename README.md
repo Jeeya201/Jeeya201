@@ -54,5 +54,7 @@ Here are some ideas to get you started:
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeya201&show_icons=true&locale=en&layout=compact" alt="jeeya201" /></p>
 -->
-Contributions:
+
+### Contributions:
 ![snake gif](https://github.com/Jeeya201/Jeeya201/blob/output/github-snake.svg#gh-light-mode-only)
+  
