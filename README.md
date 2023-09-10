@@ -56,4 +56,3 @@ Here are some ideas to get you started:
 -->
 Contributions:
 ![snake gif](https://github.com/Jeeya201/Jeeya201/blob/output/github-snake.svg#gh-light-mode-only)
-![snake gif](https://github.com/Jeeya201/Jeeya201/blob/output/github-snake-dark.svg#gh-dark-mode-only)
