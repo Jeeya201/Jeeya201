@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 ⚡ Steve Jobs once said, "The only way to do great work is to love what you do." And I'm here, pouring that love into tech and innovation !
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jeeya201)](https://github.com/Jeeya201/github-readme-stats)
