@@ -1,6 +1,3 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U0bTZlOWttbW9sZ2xkaHBiZW0xMXpubXhtaHFjZnA4Z3c1ZTVtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://Jeeya201.io)
-
-
 <h1 align="center">### Hello there 👋, I'm Jeeya Shah</h1>
 
 
