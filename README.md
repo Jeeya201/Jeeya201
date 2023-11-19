@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **jeeyashah201@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GuHoZUOh3ftMBf7VxLl0JCdcd6gNaT25/edit](https://docs.google.com/document/d/1GuHoZUOh3ftMBf7VxLl0JCdcd6gNaT25/edit)
 
 - ⚡ Fun fact **When I'm not coding, I enjoy creating art, listening to songs, and diving into video games.**
 
